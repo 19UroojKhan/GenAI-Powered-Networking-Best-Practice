@@ -14,10 +14,10 @@ Gemini API for document analysis and text extraction.
 FAISS for efficient indexing and searching of document embeddings.
 Python for backend development and data processing.
 
-# How different is it from any other existing ideas out there? 
+# HOW DIFFERENT IS IT FROM ANY OTHER EXISTING IDEAS OUT THERE?
 Our PDF Document Analysis Application sets itself apart by combining advanced natural language processing capabilities with efficient indexing and searching techniques. While there are existing tools for document analysis, our solution offers a streamlined approach that seamlessly extracts text and metadata from PDF documents, enabling users to quickly retrieve relevant information.
 
-# How will it be able to solve the problem?
+# HOW WILL IT BE ABLE TO SOLVE THE PROBLEM ?
 Our application addresses the challenge of efficiently analyzing and extracting insights from PDF documents, which often contain large amounts of unstructured data. By leveraging technologies like FAISS and Gemini API, we empower users to extract valuable information and gain actionable insights from their documents.
 
 # SCREENSHOT 
