@@ -21,13 +21,11 @@ Our PDF Document Analysis Application sets itself apart by combining advanced na
 Our application addresses the challenge of efficiently analyzing and extracting insights from PDF documents, which often contain large amounts of unstructured data. By leveraging technologies like FAISS and Gemini API, we empower users to extract valuable information and gain actionable insights from their documents.
 
 # SCREENSHOT 
+<img width="778" alt="Screenshot 2024-03-31 at 6 29 46 PM" src="https://github.com/19UroojKhan/GenAI-Powered-Networking-Best-Practice/assets/67606435/24838e00-fb80-49cc-90b2-263dbcaef398">
 
+<img width="760" alt="Screenshot 2024-03-31 at 6 30 09 PM" src="https://github.com/19UroojKhan/GenAI-Powered-Networking-Best-Practice/assets/67606435/0326be70-2a01-4f2a-b5f9-ac5a839d2e6c">
 
-
-
-
-
-
+<img width="774" alt="Screenshot 2024-03-31 at 6 30 31 PM" src="https://github.com/19UroojKhan/GenAI-Powered-Networking-Best-Practice/assets/67606435/97096f9d-72b0-4100-b74a-691181c6a610">
 
 
 
